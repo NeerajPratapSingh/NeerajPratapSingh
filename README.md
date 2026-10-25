@@ -1,9 +1,7 @@
 <img src="assets/banner.svg" width="100%" alt="Hi, I'm Neeraj Pratap Singh. Building Alibi, a gym accountability app for squads."/>
 
 <p align="center">
-  <a href="https://alibi.fit"><img src="https://img.shields.io/badge/alibi.fit-E23A3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="alibi.fit"/></a>
-  <a href="https://neerajpratapsingh.github.io/alibi/"><img src="https://img.shields.io/badge/Portfolio-1A1714?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/neeraj-pratap-singh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://alibi.fit"><img src="https://img.shields.io/badge/alibi.fit-E23A3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="alibi.fit"/></a>  <a href="https://www.linkedin.com/in/neeraj-pratap-singh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:neerajps1357@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
