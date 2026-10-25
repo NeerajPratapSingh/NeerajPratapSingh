@@ -1,8 +1,9 @@
 <img src="assets/banner.svg" width="100%" alt="Hi, I'm Neeraj Pratap Singh. Building Alibi, a gym accountability app for squads."/>
 
 <p align="center">
-  <a href="https://alibi.fit"><img src="https://img.shields.io/badge/alibi.fit-E23A3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="alibi.fit"/></a>  <a href="https://www.linkedin.com/in/neeraj-pratap-singh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:neerajps1357@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://alibi.fit"><img src="assets/btn-alibi.svg" height="44" alt="alibi.fit"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/neeraj-pratap-singh/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:neerajps1357@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email"/></a>
 </p>
 
 <p align="center">
