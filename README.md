@@ -120,11 +120,22 @@ A Claude Code mod that shows your 5-hour and weekly limits as live bars, alerts 
 
 ## 🙋 About me
 
-- 🎓 B.Tech Computer Science & Engineering, **SRM Institute of Science and Technology**
-- 🏆 **Chancellor's Award** for published AI/ML research
-- ⚡ **Oracle Cloud Infrastructure** certified in Data Science and Generative AI
-- 📊 Day job: building the performance and funnel dashboards teams make decisions on
-- 🤖 I build with AI tools every day, and sometimes I build tools for them too
+I like owning the whole thing: figuring out the problem, writing the PRD, designing the screens, shaping the database and shipping the app. Right now that's **Alibi**, which I'm building solo from Bengaluru.
+
+```ts
+const neeraj = {
+  basedIn:    "Bengaluru, India",
+  studied:    "B.Tech CSE @ SRM Institute of Science and Technology",
+  building:   "Alibi: gym accountability for squads",
+  dayJob:     "performance + funnel dashboards teams decide on",
+  award:      "Chancellor's Award for published AI/ML research",
+  certified:  ["OCI Data Science", "OCI Generative AI"],
+  askMeAbout: ["Flutter + Supabase", "writing PRDs", "ML on health data"],
+  funFact:    "I built an app that roasts me when I skip the gym",
+};
+```
+
+> 🚀 **Right now:** getting Alibi onto the Play Store. Want to be an early tester? [Drop me an email.](mailto:neerajps1357@gmail.com)
 
 ## 🐍 Eating my commits
 
