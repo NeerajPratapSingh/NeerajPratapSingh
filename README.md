@@ -1,54 +1,123 @@
-# NeeraajPratapSingh
-<!--
-  PROFILE README — put this file in a repo named EXACTLY your username:
-  NeerajPratapSingh/NeerajPratapSingh  → it shows at the top of your profile.
-  Fill in the [bracketed] bits, delete these comment lines, commit.
--->
-
-<h1 align="center">Hi, I'm Neeraj 👋</h1>
+<img src="assets/banner.svg" width="100%" alt="Hi, I'm Neeraj Pratap Singh. Building Alibi, a gym accountability app for squads."/>
 
 <p align="center">
-  CS grad who builds data products end to end — from the data model to the live view people actually run on.
+  <a href="https://alibi.fit"><img src="https://img.shields.io/badge/alibi.fit-E23A3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="alibi.fit"/></a>
+  <a href="https://neerajpratapsingh.github.io/alibi/"><img src="https://img.shields.io/badge/Portfolio-1A1714?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/neeraj-pratap-singh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:neerajps1357@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/neeraj-pratap-singh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:neerajps1357@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[YOUR_RESUME_OR_PORTFOLIO_LINK]"><img src="https://img.shields.io/badge/Résumé-2b2b2b?style=flat&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+  I build products end to end, from the database schema and backend to the app people actually open.<br/>
+  CS grad · data + product · currently shipping my first app to the Play Store.
 </p>
 
----
+<br/>
 
-### 🚀 About me
+## 🔥 Now building: [Alibi](https://alibi.fit)
 
-- 🎓 Computer Science & Engineering grad — **SRM Institute of Science and Technology**
-- 📊 Working where **data meets product** — currently building performance & funnel dashboards that teams make decisions on
-- 🧠 I like turning messy, multi-source data into things people can actually use
-- 🏆 Chancellor's Award recipient for published AI/ML research
-- ⚡ Oracle Cloud Infrastructure certified — **Data Science** & **Generative AI**
+> **Your squad sees if you skip.** Gym check-ins with proof, shared streaks and friends who keep you honest.
 
-### 🛠️ Tech & tools
+<p align="center">
+  <img src="assets/alibi-1_home.png" width="23%" alt="Alibi home screen"/>
+  <img src="assets/alibi-2_check_in.png" width="23%" alt="Alibi check-in screen"/>
+  <img src="assets/alibi-3_food.png" width="23%" alt="Alibi food diary"/>
+  <img src="assets/alibi-4_squad.png" width="23%" alt="Alibi squad screen"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧩 Featured projects
+**What it does**
+
+- 📸 **Verified check-ins:** selfie with on-device face detection, plus a GPS gym geofence
+- 👥 **Squads:** shared streaks, chat, proof photos, QR invites and push nudges
+- 🍽️ **Food diary:** barcode scanning and a daily calorie target
+- 🦉 **Mascots:** pick Kettl, Hoot or Gummy, who grows from baby to hero and roasts you when you skip
+
+</td>
+<td width="50%" valign="top">
+
+**How it's built**
+
+- **App:** Flutter, Riverpod, go_router
+- **Backend:** Supabase (Postgres, row-level security, 40+ migrations, edge functions)
+- **Push:** Firebase Cloud Messaging
+- **On-device ML:** Google ML Kit face detection
+- **Auth:** Google Sign-In
+
+[**alibi.fit ↗**](https://alibi.fit) · [**PRD + live web demo ↗**](https://neerajpratapsingh.github.io/alibi/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧩 Other things I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [📁 Splash](https://github.com/NeerajPratapSingh/Splash)
+
+A fast, lightweight file explorer for Windows with tabs, split view, photo previews, archives and instant whole-PC search.
+
+<a href="https://github.com/NeerajPratapSingh/Splash"><img src="https://raw.githubusercontent.com/NeerajPratapSingh/Splash/HEAD/docs/screenshot.png" alt="Splash file explorer"/></a>
+
+`Rust` `Tauri 2` `React` `TypeScript` · [**Download ↗**](https://github.com/NeerajPratapSingh/Splash/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+### [🚗 Repo Road Trip](https://github.com/NeerajPratapSingh/repo-road-trip)
+
+Drive through any GitHub profile in a lofi town. Every repo is a shop you can pull up to and chat with, and the answers come from that repo's real README.
+
+`JavaScript` `KAPLAY` `GitHub API` `Gemini` `Vercel` · [**Play it ↗**](https://repo-road-trip.vercel.app)
+
+### [📊 Claude Usage Tracker](https://github.com/NeerajPratapSingh/Claude_Usage_Tracker)
+
+A Claude Code mod that shows your 5-hour and weekly limits as live bars, alerts at 75/90/100%, and breaks down tokens and cost per model.
+
+`TypeScript` `Claude Code plugin`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧠 Research and earlier projects</b></summary>
+<br/>
 
 | Project | What it is | Built with |
 |---|---|---|
-| **[Repo Road Trip](https://github.com/NeerajPratapSingh/repo-road-trip)** | Drive through any GitHub profile — each repo is a chattable lofi "shop" | JS · KAPLAY · GitHub API · Gemini API |
-| **[Aneurysm-Detection](https://github.com/NeerajPratapSingh/Aneurysm-Detection)** | AI-based intracranial aneurysm detection on a multi-modal imaging dataset | Python · ML |
-| **[Gestational-Diabetes](https://github.com/NeerajPratapSingh/Gestational-Diabetes)** | Predictive modeling for gestational diabetes risk | Python · Jupyter |
-| **[Smart-Home-Automation](https://github.com/NeerajPratapSingh/Smart-Home-Automation)** | [one-line description] | C++ |
+| **[Aneurysm Detection](https://github.com/NeerajPratapSingh/Aneurysm-Detection)** | Deep learning pipeline that detects intracranial aneurysms in CTA, MRA and MRI scans | Python · Deep Learning |
+| **[GDM Early Prediction](https://github.com/NeerajPratapSingh/Gestational-Diabetes)** | Predicts gestational diabetes risk early in pregnancy from clinical data | Python · Jupyter |
+| **[Smart Home Automation](https://github.com/NeerajPratapSingh/Smart-Home-Automation)** | Arduino controller for four appliances over Bluetooth or an IR remote | C++ · Arduino |
 
-### 📈 GitHub stats
+</details>
+
+<br/>
+
+## 🛠️ Toolbox
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NeerajPratapSingh&show_icons=true&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajPratapSingh&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,postgres,firebase,ts,react,rust,tauri,js,py,tensorflow,cpp,arduino,git,vercel&perline=8" alt="Flutter, Dart, Supabase, Postgres, Firebase, TypeScript, React, Rust, Tauri, JavaScript, Python, TensorFlow, C++, Arduino, Git, Vercel"/>
+</p>
+
+## 🙋 About me
+
+- 🎓 B.Tech Computer Science & Engineering, **SRM Institute of Science and Technology**
+- 🏆 **Chancellor's Award** for published AI/ML research
+- ⚡ **Oracle Cloud Infrastructure** certified in Data Science and Generative AI
+- 📊 Day job: building the performance and funnel dashboards teams make decisions on
+- 🤖 I build with AI tools every day, and sometimes I build tools for them too
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NeerajPratapSingh&color=E23A3A&style=flat-square&label=profile+views" alt="profile views"/>
 </p>
