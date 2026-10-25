@@ -18,11 +18,22 @@
 
 > **Your squad sees if you skip.** Gym check-ins with proof, shared streaks and friends who keep you honest.
 
+Pick your look: two complete UIs, each with its own colour themes.
+
+<p align="center"><b>🎮 Playful</b></p>
 <p align="center">
-  <img src="assets/alibi-1_home.png" width="23%" alt="Alibi home screen"/>
-  <img src="assets/alibi-2_check_in.png" width="23%" alt="Alibi check-in screen"/>
-  <img src="assets/alibi-3_food.png" width="23%" alt="Alibi food diary"/>
-  <img src="assets/alibi-4_squad.png" width="23%" alt="Alibi squad screen"/>
+  <img src="assets/alibi-playful-1_home.png" width="23%" alt="Alibi home, Playful theme"/>
+  <img src="assets/alibi-playful-2_check_in.png" width="23%" alt="Alibi check-in, Playful theme"/>
+  <img src="assets/alibi-playful-3_food.png" width="23%" alt="Alibi food, Playful theme"/>
+  <img src="assets/alibi-playful-4_squad.png" width="23%" alt="Alibi squad, Playful theme"/>
+</p>
+
+<p align="center"><b>✨ Simple</b></p>
+<p align="center">
+  <img src="assets/alibi-simple-1_home.png" width="23%" alt="Alibi home, Simple theme"/>
+  <img src="assets/alibi-simple-2_check_in.png" width="23%" alt="Alibi check-in, Simple theme"/>
+  <img src="assets/alibi-simple-3_food.png" width="23%" alt="Alibi food, Simple theme"/>
+  <img src="assets/alibi-simple-4_squad.png" width="23%" alt="Alibi squad, Simple theme"/>
 </p>
 
 <table>
