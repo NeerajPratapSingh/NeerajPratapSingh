@@ -82,11 +82,27 @@ A fast, lightweight file explorer for Windows with tabs, split view, photo previ
 </td>
 <td width="50%" valign="top">
 
+### [🧠 YouDumb](https://youdumb.netlify.app)
+
+AI got smarter every year. Did you? A free brain game where you climb from a 1966 chatbot to today's frontier models across logic, math, aptitude, business and code, and learn the trick behind every question.
+
+<a href="https://youdumb.netlify.app"><img src="assets/youdumb.png" alt="YouDumb home page"/></a>
+
+`HTML` `JavaScript` `Supabase` `Netlify` · [**Play it ↗**](https://youdumb.netlify.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [🚗 Repo Road Trip](https://github.com/NeerajPratapSingh/repo-road-trip)
 
 Drive through any GitHub profile in a lofi town. Every repo is a shop you can pull up to and chat with, and the answers come from that repo's real README.
 
 `JavaScript` `KAPLAY` `GitHub API` `Gemini` `Vercel` · [**Play it ↗**](https://repo-road-trip.vercel.app)
+
+</td>
+<td width="50%" valign="top">
 
 ### [📊 Claude Usage Tracker](https://github.com/NeerajPratapSingh/Claude_Usage_Tracker)
 
