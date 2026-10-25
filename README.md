@@ -126,6 +126,14 @@ A Claude Code mod that shows your 5-hour and weekly limits as live bars, alerts 
 - 📊 Day job: building the performance and funnel dashboards teams make decisions on
 - 🤖 I build with AI tools every day, and sometimes I build tools for them too
 
+## 🐍 Eating my commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeerajPratapSingh/NeerajPratapSingh/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NeerajPratapSingh/NeerajPratapSingh/output/snake.svg"/>
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/NeerajPratapSingh/NeerajPratapSingh/output/snake-dark.svg" width="100%"/>
+</picture>
+
 <br/>
 
 <p align="center">
