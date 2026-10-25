@@ -99,7 +99,7 @@ A Claude Code mod that shows your 5-hour and weekly limits as live bars, alerts 
 </table>
 
 <details>
-<summary><b>🧠 Research and earlier projects</b></summary>
+<summary><b>🗂️ Earlier projects</b></summary>
 <br/>
 
 | Project | What it is | Built with |
@@ -111,6 +111,57 @@ A Claude Code mod that shows your 5-hour and weekly limits as live bars, alerts 
 </details>
 
 <br/>
+
+## 📄 Research
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Video Based Analysis of Exercise Form for Performance Assessment and Injury Prevention
+
+**Published** · ICSIT 2025, IEEE Xplore<br/>
+S.S. Saranya, Ahhsanul Hoque, **Neeraj Pratap**
+
+Classifies exercise posture from video with ensemble ML models to catch form errors and recommend personalised workouts, for fitness and rehab.
+
+[**Read on IEEE Xplore ↗**](https://ieeexplore.ieee.org/document/11295195) · DOI [10.1109/ICSIT65336.2025.11295195](https://doi.org/10.1109/ICSIT65336.2025.11295195)
+
+</td>
+<td width="50%" valign="top">
+
+### AneurysmNet: Multi-Frame Aneurysm Detection Using EfficientNetV2 and Modality-Aware Preprocessing
+
+**Presented** · BIDA 2026, RV Institute of Management, Bengaluru · to appear in Springer proceedings<br/>
+S.S. Saranya, Ahhsanul Hoque, **Neeraj Pratap**
+
+Detects intracranial aneurysms across CTA, MRA and MRI scans with EfficientNetV2 and preprocessing tuned to each scan type. [Code ↗](https://github.com/NeerajPratapSingh/Aneurysm-Detection)
+
+<a href="assets/certs/bida2026-presentation.png"><img src="assets/certs/bida2026-presentation.png" width="150" alt="BIDA 2026 certificate of presentation"/></a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="200"><a href="assets/certs/chancellors-award.jpg"><img src="assets/certs/chancellors-award.jpg" width="200" alt="SRM Chancellor's Award certificate"/></a></td>
+<td>🏆 <b>Chancellor's Award for Excellence in Undergraduate Research 2026</b><br/>SRM Institute of Science and Technology, for publishing research indexed in WoS/Scopus in 2025.</td>
+</tr>
+</table>
+
+## 🏅 Certifications
+
+<table>
+<tr>
+<td width="50%" align="center"><a href="assets/certs/oci-genai.png"><img src="assets/certs/oci-genai.png" alt="Oracle OCI 2025 Generative AI Professional certificate"/></a><br/><b>OCI 2025 Generative AI Professional</b><br/><sub>Oracle · Oct 2025</sub></td>
+<td width="50%" align="center"><a href="assets/certs/oci-datascience.png"><img src="assets/certs/oci-datascience.png" alt="Oracle OCI 2025 Data Science Professional certificate"/></a><br/><b>OCI 2025 Data Science Professional</b><br/><sub>Oracle · Nov 2025</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="assets/certs/servicenow-cad.png"><img src="assets/certs/servicenow-cad.png" alt="ServiceNow Certified Application Developer certificate"/></a><br/><b>Certified Application Developer</b><br/><sub>ServiceNow · May 2025</sub></td>
+<td width="50%" align="center"><a href="assets/certs/servicenow-csa.png"><img src="assets/certs/servicenow-csa.png" alt="ServiceNow Certified System Administrator certificate"/></a><br/><b>Certified System Administrator</b><br/><sub>ServiceNow · Nov 2024</sub></td>
+</tr>
+</table>
 
 ## 🛠️ Toolbox
 
@@ -132,8 +183,8 @@ const neeraj = {
   studied:    "B.Tech CSE @ SRM Institute of Science and Technology",
   building:   "Alibi: gym accountability for squads",
   dayJob:     "performance + funnel dashboards teams decide on",
-  award:      "Chancellor's Award for published AI/ML research",
-  certified:  ["OCI Data Science", "OCI Generative AI"],
+  award:      "SRM Chancellor's Award for undergraduate research, 2026",
+  certified:  ["OCI Gen AI", "OCI Data Science", "ServiceNow CAD + CSA"],
   askMeAbout: ["Flutter + Supabase", "writing PRDs", "ML on health data"],
   funFact:    "I built an app that roasts me when I skip the gym",
 };
