@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://alibi.fit"><img src="assets/btn-alibi.svg" height="44" alt="alibi.fit"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/neeraj-pratap-singh/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:neerajps1357@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email"/></a>
+  <a href="mailto:pratapneeraj240@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -206,7 +206,7 @@ const neeraj = {
 };
 ```
 
-> 🚀 **Right now:** getting Alibi onto the Play Store. Want to be an early tester? [Drop me an email.](mailto:neerajps1357@gmail.com)
+> 🚀 **Right now:** getting Alibi onto the Play Store. Want to be an early tester? [Drop me an email.](mailto:pratapneeraj240@gmail.com)
 
 ## 🐍 Eating my commits
 
