@@ -44,7 +44,7 @@ Pick your look: two complete UIs, each with its own colour themes.
 - 📸 **Verified check-ins:** selfie with on-device face detection, plus a GPS gym geofence
 - 👥 **Squads:** shared streaks, chat, proof photos, QR invites and push nudges
 - 🍽️ **Food diary:** barcode scanning and a daily calorie target
-- 🦉 **Mascots:** pick Tank the bull, Hoot the owl or Silver the gorilla, who grows from baby to hero and roasts you when you skip
+- 🦉 **Mascots:** pick Berry the bull, Hoot the owl or Rampage the gorilla, who grows from baby to hero and roasts you when you skip
 
 </td>
 <td width="50%" valign="top">
